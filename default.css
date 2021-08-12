@@ -1,0 +1,19 @@
+/* class를 지정할 거예요! */
+/* CSS : Cascading Style Sheets */
+
+/* class selector */
+.myStyle {
+    color : red;
+    background-color: yellow;
+    font-size: 15px;
+}
+
+/* tag selector */
+h1 {
+    color : blue;
+}
+
+/* id selector */
+#myId {
+    color : violet;
+}
